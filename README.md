@@ -4,3 +4,4 @@ secondnewtest
 newtest
 finally no
 use fetch
+5
