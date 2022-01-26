@@ -3,3 +3,4 @@ test
 secondnewtest
 newtest
 finally no
+use fetch
