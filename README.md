@@ -2,3 +2,4 @@
 test 
 secondnewtest
 newtest
+use fetch
